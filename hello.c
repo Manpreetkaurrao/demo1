@@ -1,5 +1,7 @@
 #include <stdio.h>
 #include <conio.h>
-int main() {
- prinf("hey dear");
+int main() 
+{
+ printf("hello world,good morning");
+ return 0;
 }
